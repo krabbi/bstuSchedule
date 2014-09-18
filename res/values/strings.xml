@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Расписание занятий БГТУ</string>
+    <string name="action_settings">Настройки</string>
+    <string name="new_title">Новый предмет</string>
+    <string name="days_prompt">День недели</string>
+    <string name="time_prompt">Время занятия</string>
+    <string name="week_prompt">Неделя</string>
+    <string name="today_schedule">Расписание на сегодня</string>
+    <string name="time_first">13:50-15:25</string>
+    <string name="time_second">15:40-17:15</string>
+    <string name="time_third">17:30-19:05</string>
+    <string name="time_fourth">19:20-20:55</string>
+    <string name="new_lesson">Новый предмет</string>
+    
+    <string-array name="days_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="time_of_lesson">
+        <item>13:50&#8211;15:25</item>
+        <item>15:40&#8211;17:15</item>
+        <item>17:30&#8211;19:05</item>
+        <item>19:20&#8211;20:55</item>
+    </string-array>
+    <string-array name="week_number">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
